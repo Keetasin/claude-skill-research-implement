@@ -22,7 +22,7 @@ prompt ยาว ๆ ก้อนเดียวมักปนการออ�
 ## ติดตั้ง
 
 ```bash
-git clone https://github.com/<your-user>/claude-skill-research-implement.git \
+git clone https://github.com/Keetasin/claude-skill-research-implement.git \
   ~/.claude/skills/research-implement
 ```
 

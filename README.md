@@ -22,7 +22,7 @@ One long prompt tends to mix design, coding and checking in one context. This sk
 ## Install
 
 ```bash
-git clone https://github.com/<your-user>/claude-skill-research-implement.git \
+git clone https://github.com/Keetasin/claude-skill-research-implement.git \
   ~/.claude/skills/research-implement
 ```
 
