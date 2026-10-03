@@ -1,6 +1,6 @@
 # research-implement
 
-A [Claude Code](https://code.claude.com) skill that runs a **plan → research → implement → verify** workflow with a model split: Opus researches, plans and reviews; Sonnet maps code and writes code. It aims for the **smallest necessary diff** with research-grade best practice.
+A [Claude Code](https://code.claude.com) skill that runs a **research → plan → review → implement → verify** workflow with a model split: Opus researches, plans and reviews; Sonnet maps code and writes code. It aims for the **smallest necessary diff** with research-grade best practice.
 
 [ภาษาไทย](README.th.md)
 

@@ -1,6 +1,6 @@
 ---
 name: research-implement
-description: Plan-research-build-verify workflow with model split. Opus subagent researches and plans a minimal-change, research-grade best-practice solution, an Opus reviewer hardens the plan, Sonnet subagents implement it test-first, then verify with evidence and write a report with lessons. Run only when the user invokes /research-implement.
+description: Research-plan-review-build-verify workflow with model split. Opus subagent researches and plans a minimal-change, research-grade best-practice solution, an Opus reviewer hardens the plan, Sonnet subagents implement it test-first, then verify with evidence and write a report with lessons. Run only when the user invokes /research-implement.
 argument-hint: <task description>
 disable-model-invocation: true
 hooks:

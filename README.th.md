@@ -1,6 +1,6 @@
 # research-implement
 
-Skill สำหรับ [Claude Code](https://code.claude.com) ที่ทำงานเป็นลำดับ **วางแผน → วิจัย → เขียนโค้ด → ตรวจสอบ** โดยแบ่ง model: Opus วิจัย วางแผน และ review ส่วน Sonnet ทำแผนที่โค้ดและเขียนโค้ด เป้าหมายคือ **แก้โค้ดให้น้อยที่สุดเท่าที่จำเป็น** ตาม best practice ระดับงานวิจัย
+Skill สำหรับ [Claude Code](https://code.claude.com) ที่ทำงานเป็นลำดับ **วิจัย → วางแผน → review แผน → เขียนโค้ด → ตรวจสอบ** โดยแบ่ง model: Opus วิจัย วางแผน และ review ส่วน Sonnet ทำแผนที่โค้ดและเขียนโค้ด เป้าหมายคือ **แก้โค้ดให้น้อยที่สุดเท่าที่จำเป็น** ตาม best practice ระดับงานวิจัย
 
 [English](README.md)
 
